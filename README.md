@@ -1,22 +1,5 @@
-
-
-Wordpress Login
-Username - 4yi8kr
-Password - admin
-
-
 Samples
 https://extendthemes.com/mesmerize/demos/demo-free-2/
-
-
-
-
-
-
-
-
-
-
 
 Sample website
 http://ahoy-media.com/web/lb/
